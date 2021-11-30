@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/background.webp</file>
+        <file>picture/begin.png</file>
+        <file>picture/next.png</file>
+        <file>picture/previous.png</file>
+        <file>picture/stop.png</file>
+        <file>picture/logo.webp</file>
+    </qresource>
+</RCC>
